@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.blank{
+  color: rgb(51, 31, 160);
+}
+.textarea{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+.mb-3{
+  width: 500px;
+}
+/* .btn{
+  margin: 10px;
+} */
